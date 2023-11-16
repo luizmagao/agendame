@@ -1,0 +1,6 @@
+[submodule "app-laravue"]
+	path = app-laravue
+	url = https://github.com/luizmagao/app-laravue.git
+[submodule "api-laravue"]
+	path = api-laravue
+	url = https://github.com/luizmagao/api-laravue.git
